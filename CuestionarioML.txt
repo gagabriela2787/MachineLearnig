@@ -4,9 +4,6 @@
 
 
 
-
-
-
 I.Descripción del problema
    - Cuál es el problema que se desea  resolver con el modelo de ML?
    - Cuál es el objetivo principal de tu proyecto?
