@@ -1,0 +1,44 @@
+﻿Guía para crear un modelo ML
+
+
+
+
+
+I.Descripción del problema
+   - Cuál es el problema que se desea  resolver con el modelo de ML?
+   - Cuál es el objetivo principal de tu proyecto?
+
+
+II.Datos disponibles
+   - Qué datos hay a disposición? ¿fuente de los datos?
+   - Qué tipo de datos son?
+   - Cuántas muestras (filas) y características (columnas) tienen?
+   - Existe alguna desigualdad en la distribución de clases o etiquetas si es un problema de clasificación?
+
+
+III.Preprocesamiento de datos
+   - Limpieza o preprocesamiento en tus datos
+   - Valores faltantes
+
+
+IV.Selección de características
+   - Realizar alguna selección de datos
+
+
+V.Conjunto de entrenamiento y prueba
+   - Dividir los datos en conjuntos de entrenamiento y prueba
+
+
+VI.Tipo de modelo
+   - ¿Tienes alguna idea sobre el tipo de modelo de machine learning que te gustaría utilizar (regresión, clasificación, clustering, etc.)?
+
+
+VII.Métricas de evaluación
+   -Métricas para evaluar el rendimiento 
+
+
+VIII.Recursos y restricciones
+ -Verificar los recursos computacionales
+ 
+IX.Objetivo final
+    -Objetivo final del proyecto
